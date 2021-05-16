@@ -1,0 +1,7 @@
+D:\Zub\Programming\C#\skillbox\HomeWork7.8\bin\Debug\HomeWork7.8.exe.config
+D:\Zub\Programming\C#\skillbox\HomeWork7.8\bin\Debug\HomeWork7.8.exe
+D:\Zub\Programming\C#\skillbox\HomeWork7.8\bin\Debug\HomeWork7.8.pdb
+D:\Zub\Programming\C#\skillbox\HomeWork7.8\obj\Debug\HomeWork7.8.csprojAssemblyReference.cache
+D:\Zub\Programming\C#\skillbox\HomeWork7.8\obj\Debug\HomeWork7.8.csproj.CoreCompileInputs.cache
+D:\Zub\Programming\C#\skillbox\HomeWork7.8\obj\Debug\HomeWork7.8.exe
+D:\Zub\Programming\C#\skillbox\HomeWork7.8\obj\Debug\HomeWork7.8.pdb
